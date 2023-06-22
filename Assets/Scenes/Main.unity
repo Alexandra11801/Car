@@ -424,7 +424,7 @@ MonoBehaviour:
   trackSegmentPrefab: {fileID: 7302903511756022559, guid: d472fa36fb69e614b93792905e654f8d, type: 3}
   trackSegmentLength: 30
   obstaclePrefab: {fileID: 808203566813685188, guid: 185a587e60c270e46ab5a487d08ee5bf, type: 3}
-  obstaclePosition: {x: 0, y: 0.1, z: 9.54}
+  obstaclePosition: {x: 0, y: 0, z: 9.54}
   obstacleRotation: {x: 0, y: 0.70710677, z: 0, w: 0.70710677}
   obstacleOffset: 2.6
   initTrackSegmentsNumber: 4
